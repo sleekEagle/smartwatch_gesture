@@ -13,3 +13,6 @@ This also uses GANs to create synthetic data to improve performance.
 ## CNN_eval_mydata.ipynb
     CLassifies data that I created with the models trained in the CNN.ipynb
     
+## user_dataprep.py
+    extracts data from smartwatch data file created from wada (https://github.com/abumondol/WaDa)
+    
